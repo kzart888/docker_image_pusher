@@ -1,4 +1,2 @@
 lobehub/lobe-chat
-frappe/frappe_docker
-frappe/print_designer
-frappe/hrms
+frappe/erpnext
