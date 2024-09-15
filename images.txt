@@ -1,3 +1,7 @@
 lobehub/lobe-chat
+lobehub/lobe-chat-database
+svhd/logto
+minio/minio
 frappe/erpnext
 dreamacro/clash
+pgvector/pgvector
